@@ -10,7 +10,7 @@
     "build": "rm -r lib && tsc --project ./tsconfig.json && copyfiles *.png lib/"
   },
   "dependencies": {
-    "react-native-webview": ">=6.0.2"
+    "react-native-webview": "11.26.0"
   },
   "peerDependencies": {
     "react": "*",
